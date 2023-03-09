@@ -13,3 +13,7 @@
     color: #ffc0cd;
     text-align: center;
   }
+
+.daily-contents p {
+   font-weight: bold;
+}
